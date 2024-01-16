@@ -1,6 +1,6 @@
 # goit-algo-hw-02
 
-## asics algorithms and Data Structures
+## Basics algorithms and Data Structures
 
 Тема 2. Основні структури даних
 
